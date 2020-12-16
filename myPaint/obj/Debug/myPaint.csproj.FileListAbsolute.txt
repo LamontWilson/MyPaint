@@ -1,0 +1,9 @@
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\bin\Debug\myPaint.exe.config
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\bin\Debug\myPaint.exe
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\bin\Debug\myPaint.pdb
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\obj\Debug\myPaint.csprojResolveAssemblyReference.cache
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\obj\Debug\myPaint.Form1.resources
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\obj\Debug\myPaint.Properties.Resources.resources
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\obj\Debug\myPaint.csproj.GenerateResource.Cache
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\obj\Debug\myPaint.exe
+c:\users\l\documents\visual studio 2017\Projects\myPaint\myPaint\obj\Debug\myPaint.pdb
